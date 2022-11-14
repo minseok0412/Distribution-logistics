@@ -42,7 +42,6 @@ class Graph():
 
         self.printSolution(dist)
 
-
 g = Graph(9)
 g.graph = [[0, 4, 0, 0, 0, 0, 0, 8, 0],
            [4, 0, 8, 0, 0, 0, 0, 11, 0],
